@@ -1,2 +1,2 @@
 # My Games
-Program Game
+Program Snake Game with Python Progamming Language
